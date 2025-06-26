@@ -18,7 +18,7 @@ Recipe Finder is a simple and user-friendly web application that helps you disco
 
 ## 📸 Screenshots
 
-[](frontend/public/screenshot.png.png)
+[](public/screenshot.png.png)
 
 
 ## 🌐 Live Demo
