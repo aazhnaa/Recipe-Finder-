@@ -1,4 +1,4 @@
-const API_KEY="22547f39d7d54c0b8dfac71f71042789";
+const API_KEY=import.meta.env.VITE_API_KEY;
 const BASE_URL="https://api.spoonacular.com/recipes";
 
 // export const getRandomRecipes = async() =>{
