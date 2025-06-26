@@ -1,3 +1,7 @@
+## 📸 Screenshots
+
+[](public/screenshot.png.png)
+
 # 🍽️ Recipe Finder
 
 Recipe Finder is a simple and user-friendly web application that helps you discover delicious recipes from around the world. You can search for new recipes and save your favorites for quick access later.
@@ -15,11 +19,6 @@ Recipe Finder is a simple and user-friendly web application that helps you disco
 - **Frontend**: React.js (with Vite)
 - **Styling**: Tailwind CSS
 - **API**: [Spoonacular API](https://spoonacular.com/food-api)
-
-## 📸 Screenshots
-
-[](public/screenshot.png.png)
-
 
 ## 🌐 Live Demo
 You can view the website [here](https://aashnasrecipefinder.netlify.app/)
