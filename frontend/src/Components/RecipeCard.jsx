@@ -24,7 +24,7 @@ const RecipeCard = ({ recipe }) => {
   return (
     <div className="max-w-sm max-h-sm p-2 rounded-lg overflow-hidden shadow-lg bg-white m-4 flex flex-col items-center">
       <button
-        className="relative top-2 right-40 z-10"
+        className="relative top-0 sm:top-2 right-28 sm:right-40 z-10"
         onClick={handleChangeFavorite}
       >
         <div className="w-10 h-10 flex justify-center items-center bg-gray-200 rounded-full p-2 hover:bg-gray-300 transition-all duration-300">

@@ -58,7 +58,7 @@ const Home = () => {
               placeholder="Search recipe"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="input p-4 w-1/3 rounded-lg"
+              className="input p-4 w-2/3 sm:w-1/3  rounded-lg"
             />
             <button
               type="submit"
@@ -68,9 +68,9 @@ const Home = () => {
             </button>
           </div>
         </form>
-        <div className="grid grid-cols-3 grid-rows-2 gap-4 p-6 ">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 p-6 ">
           {loading ? (
-            <div className='w-full h-full flex flex-col justify-center items-center'> <FiLoader className='animate spin-10'/></div>
+            <div className='w-full h-full flex flex-col justify-center items-center'> <FiLoader className='size-10 animate-spin'/></div>
           ) : (
             recipes.map((recipe) => (
               <RecipeCard key={recipe.id} recipe={recipe} />
