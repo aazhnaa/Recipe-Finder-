@@ -1,0 +1,676 @@
+{
+  "recipes": [
+    {
+      "id": 643175,
+      "image": "https://img.spoonacular.com/recipes/643175-556x370.jpg",
+      "imageType": "jpg",
+      "title": "Focaccia with Tomato, Green Onion and Garlic",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "https://www.foodista.com/recipe/PHNDBHTF/focaccia-with-tomato-green-onion-and-garlic",
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 12,
+      "gaps": "no",
+      "preparationMinutes": null,
+      "cookingMinutes": null,
+      "aggregateLikes": 6,
+      "healthScore": 2,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 144.54,
+      "extendedIngredients": [
+        {
+          "id": 1002047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "SOLID",
+          "name": "coarse salt",
+          "nameClean": "coarse salt",
+          "original": "1 tablespoon coarse salt",
+          "originalName": "coarse salt",
+          "amount": 1,
+          "unit": "tablespoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 93837,
+          "aisle": "Bakery/Bread",
+          "image": "focaccia.jpg",
+          "consistency": "SOLID",
+          "name": "flour",
+          "nameClean": "flour",
+          "original": "4 cups flour (if you want thinner focaccia, use about 3 cups of flour)",
+          "originalName": "flour (if you want thinner focaccia, use about 3 cups of flour)",
+          "amount": 4,
+          "unit": "cups",
+          "meta": [
+            "(if you want thinner focaccia, use 3 cups of flour)"
+          ],
+          "measures": {
+            "us": {
+              "amount": 4,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 946.352,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 10211215,
+          "aisle": "Produce",
+          "image": "garlic.jpg",
+          "consistency": "SOLID",
+          "name": "garlic clove",
+          "nameClean": "garlic clove",
+          "original": "1 garlic clove, sliced thin",
+          "originalName": "garlic clove, sliced thin",
+          "amount": 1,
+          "unit": "",
+          "meta": [
+            "sliced",
+            "thin"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 1,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 11291,
+          "aisle": "Produce",
+          "image": "spring-onions.jpg",
+          "consistency": "SOLID",
+          "name": "green onion",
+          "nameClean": "green onion",
+          "original": "1 green onion, minced",
+          "originalName": "green onion, minced",
+          "amount": 1,
+          "unit": "",
+          "meta": [
+            "minced"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 1,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 4053,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "olive-oil.jpg",
+          "consistency": "LIQUID",
+          "name": "olive oil",
+          "nameClean": "olive oil",
+          "original": "4 tablespoons Olive Oil",
+          "originalName": "Olive Oil",
+          "amount": 4,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 4,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 4,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 2027,
+          "aisle": "Spices and Seasonings",
+          "image": "oregano.jpg",
+          "consistency": "SOLID",
+          "name": "oregano",
+          "nameClean": "oregano",
+          "original": "1/2-1 teaspoons dried oregano",
+          "originalName": "dried oregano",
+          "amount": 0.5,
+          "unit": "teaspoons",
+          "meta": [
+            "dried"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 1032,
+          "aisle": "Cheese",
+          "image": "parmesan.jpg",
+          "consistency": "SOLID",
+          "name": "parmesan cheese",
+          "nameClean": "parmesan cheese",
+          "original": "2 tablespoons grated parmesan cheese",
+          "originalName": "grated parmesan cheese",
+          "amount": 2,
+          "unit": "tablespoons",
+          "meta": [
+            "grated"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 2,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "SOLID",
+          "name": "sugar",
+          "nameClean": "sugar",
+          "original": "1 tablespoon sugar",
+          "originalName": "sugar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        },
+        {
+          "id": 11529,
+          "aisle": "Produce",
+          "image": "tomato.png",
+          "consistency": "SOLID",
+          "name": "tomatoes",
+          "nameClean": "tomatoes",
+          "original": "1-1/2 small tomatoes, diced",
+          "originalName": "tomatoes, diced",
+          "amount": 1.5,
+          "unit": "small",
+          "meta": [
+            "diced"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.5,
+              "unitShort": "small",
+              "unitLong": "smalls"
+            },
+            "metric": {
+              "amount": 1.5,
+              "unitShort": "small",
+              "unitLong": "smalls"
+            }
+          }
+        },
+        {
+          "id": 14412,
+          "aisle": "Beverages",
+          "image": "water.png",
+          "consistency": "LIQUID",
+          "name": "warm water",
+          "nameClean": "warm water",
+          "original": "1/2 pint Warm Water",
+          "originalName": "Warm Water",
+          "amount": 0.5,
+          "unit": "pint",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "pts",
+              "unitLong": "pints"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "pts",
+              "unitLong": "pints"
+            }
+          }
+        },
+        {
+          "id": 18375,
+          "aisle": "Baking",
+          "image": "yeast-granules.jpg",
+          "consistency": "SOLID",
+          "name": "quick-rising yeast",
+          "nameClean": "quick-rising yeast",
+          "original": "2 teaspoons of quick-rising yeast",
+          "originalName": "quick-rising yeast",
+          "amount": 2,
+          "unit": "teaspoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 2,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        }
+      ],
+      "summary": "Focaccia with Tomato, Green Onion and Garlic is a bread that serves 8. One serving contains \u003Cb\u003E420 calories\u003C/b\u003E, \u003Cb\u003E12g of protein\u003C/b\u003E, and \u003Cb\u003E14g of fat\u003C/b\u003E. For \u003Cb\u003E$1.45 per serving\u003C/b\u003E, this recipe \u003Cb\u003Ecovers 6%\u003C/b\u003E of your daily requirements of vitamins and minerals. It is a \u003Cb\u003Ereasonably priced\u003C/b\u003E recipe for fans of Mediterranean food. 6 people have tried and liked this recipe. Head to the store and pick up tomatoes, oregano, green onion, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately \u003Cb\u003E45 minutes\u003C/b\u003E. All things considered, we decided this recipe \u003Cb\u003Edeserves a spoonacular score of 72%\u003C/b\u003E. This score is solid. Try \u003Ca href=\"https://spoonacular.com/recipes/garlic-onion-focaccia-389797\"\u003EGarlic Onion Focaccia\u003C/a\u003E, \u003Ca href=\"https://spoonacular.com/recipes/caramelized-onion-tomato-focaccia-173449\"\u003ECaramelized Onion-Tomato Focaccia\u003C/a\u003E, and \u003Ca href=\"https://spoonacular.com/recipes/red-onion-garlic-focaccia-1189457\"\u003ERed Onion & Garlic Focaccia\u003C/a\u003E for similar recipes.",
+      "cuisines": [
+        "Mediterranean",
+        "Italian",
+        "European"
+      ],
+      "dishTypes": [
+        "bread"
+      ],
+      "diets": [],
+      "occasions": [],
+      "instructions": "\u003Col\u003E\u003Cli\u003ENote: You can use a standing mixer with a dough hook to mix the dough, but we made our bread the old-fashioned way, kneading it with our hands.\u003C/li\u003E\u003Cli\u003ECombine the yeast with warm water (this is referred to as proofing the yeast) in a small bowl along with the sugar. Gently stir the mixture to dissolve everything. Allow the yeast to stand for about 3 minutes until it gets a bit foamy.\u003C/li\u003E\u003Cli\u003EAdd the flour to a large bowl and make a well in the center of it.\u003C/li\u003E\u003Cli\u003EIn a small bowl, dissolve the salt in a few tablespoons of water, and add it to the flour along with the yeast mixture. Next add the olive oil to the mixture.\u003C/li\u003E\u003Cli\u003EWith your hands and a spatula to scrape down the bowl, mix everything together to form the dough. Punch down and knead the dough, turning it as you go, for at least 10 minutes or until the dough is smooth, soft and pliable. Add a bit of flour to the dough as needed. Form the dough into a round ball.\u003C/li\u003E\u003Cli\u003EAdd some olive oil to your hands and smooth it over the dough ball to coat it and leave it in the bowl. Cover the bowl with a thick towel and place the bowl in a warm spot to let the dough rise to double its size (about 45 minutes to an hour).\u003C/li\u003E\u003Cli\u003ECoat a baking sheet (with sides) with olive oil and sprinkle a few tablespoons of cornmeal over the entire pan. Set aside.\u003C/li\u003E\u003Cli\u003EOnce the dough has risen, place it on a floured surface and punch it down 3-4 times. Allow it to stand for a few minutes while you get your toppings ready.\u003C/li\u003E\u003Cli\u003EMoving back to the dough, roll and stretch it out into an oblong shape that is about 1/2 an inch thick. Place the dough on the oiled baking sheet, cover it with plastic wrap and let it stand for about 15 minutes.\u003C/li\u003E\u003Cli\u003EPreheat your oven to 400 degrees F. After the dough has rested and youre ready to bake it, poke small wells all around the dough using your finger. Brush the surface of the dough with olive oil.\u003C/li\u003E\u003Cli\u003EEvenly sprinkle on the dried oregano, green onion, tomato and garlic. Sprinkle with coarse salt, then grated Parmesan cheese.\u003C/li\u003E\u003Cli\u003EBake on the bottom rack for 20 minutes, checking it as it gets close to the end of the baking time.\u003C/li\u003E\u003C/ol\u003E",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Note: You can use a standing mixer with a dough hook to mix the dough, but we made our bread the old-fashioned way, kneading it with our hands.",
+              "ingredients": [
+                {
+                  "id": 18064,
+                  "name": "bread",
+                  "localizedName": "bread",
+                  "image": "white-bread.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "dough",
+                  "localizedName": "dough",
+                  "image": "pizza-dough"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/blender.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Combine the yeast with warm water (this is referred to as proofing the yeast) in a small bowl along with the sugar. Gently stir the mixture to dissolve everything. Allow the yeast to stand for about 3 minutes until it gets a bit foamy.",
+              "ingredients": [
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 18375,
+                  "name": "yeast",
+                  "localizedName": "yeast",
+                  "image": "yeast-granules.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                }
+              ],
+              "length": {
+                "number": 3,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Add the flour to a large bowl and make a well in the center of it.In a small bowl, dissolve the salt in a few tablespoons of water, and add it to the flour along with the yeast mixture. Next add the olive oil to the mixture.With your hands and a spatula to scrape down the bowl, mix everything together to form the dough. Punch down and knead the dough, turning it as you go, for at least 10 minutes or until the dough is smooth, soft and pliable.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "dough",
+                  "localizedName": "dough",
+                  "image": "pizza-dough"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                },
+                {
+                  "id": 0,
+                  "name": "punch",
+                  "localizedName": "punch",
+                  "image": ""
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 18375,
+                  "name": "yeast",
+                  "localizedName": "yeast",
+                  "image": "yeast-granules.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404642,
+                  "name": "spatula",
+                  "localizedName": "spatula",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/spatula-or-turner.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 4,
+              "step": "Add a bit of flour to the dough as needed. Form the dough into a round ball.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "dough",
+                  "localizedName": "dough",
+                  "image": "pizza-dough"
+                },
+                {
+                  "id": 20081,
+                  "name": "all purpose flour",
+                  "localizedName": "all purpose flour",
+                  "image": "flour.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Add some olive oil to your hands and smooth it over the dough ball to coat it and leave it in the bowl. Cover the bowl with a thick towel and place the bowl in a warm spot to let the dough rise to double its size (about 45 minutes to an hour).Coat a baking sheet (with sides) with olive oil and sprinkle a few tablespoons of cornmeal over the entire pan. Set aside.Once the dough has risen, place it on a floured surface and punch it down 3-4 times. Allow it to stand for a few minutes while you get your toppings ready.Moving back to the dough, roll and stretch it out into an oblong shape that is about 1/2 an inch thick.",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 35137,
+                  "name": "cornmeal",
+                  "localizedName": "cornmeal",
+                  "image": "cornmeal.png"
+                },
+                {
+                  "id": 0,
+                  "name": "dough",
+                  "localizedName": "dough",
+                  "image": "pizza-dough"
+                },
+                {
+                  "id": 0,
+                  "name": "punch",
+                  "localizedName": "punch",
+                  "image": ""
+                },
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/baking-sheet.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+                }
+              ],
+              "length": {
+                "number": 45,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 6,
+              "step": "Place the dough on the oiled baking sheet, cover it with plastic wrap and let it stand for about 15 minutes.Preheat your oven to 400 degrees F. After the dough has rested and youre ready to bake it, poke small wells all around the dough using your finger.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "dough",
+                  "localizedName": "dough",
+                  "image": "pizza-dough"
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/baking-sheet.jpg"
+                },
+                {
+                  "id": 404730,
+                  "name": "plastic wrap",
+                  "localizedName": "plastic wrap",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/plastic-wrap.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+                  "temperature": {
+                    "number": 400,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ],
+              "length": {
+                "number": 15,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 7,
+              "step": "Brush the surface of the dough with olive oil.Evenly sprinkle on the dried oregano, green onion, tomato and garlic.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "dried oregano",
+                  "localizedName": "dried oregano",
+                  "image": "oregano.jpg"
+                },
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "localizedName": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 0,
+                  "name": "dough",
+                  "localizedName": "dough",
+                  "image": "pizza-dough"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Sprinkle with coarse salt, then grated Parmesan cheese.",
+              "ingredients": [
+                {
+                  "id": 1032,
+                  "name": "grated parmesan cheese",
+                  "localizedName": "grated parmesan cheese",
+                  "image": "parmesan.jpg"
+                },
+                {
+                  "id": 1002047,
+                  "name": "coarse salt",
+                  "localizedName": "coarse salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Bake on the bottom rack for 20 minutes, checking it as it gets close to the end of the baking time.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+                }
+              ],
+              "length": {
+                "number": 20,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularScore": 35.3613700866699,
+      "spoonacularSourceUrl": "https://spoonacular.com/focaccia-with-tomato-green-onion-and-garlic-643175"
+    }
+  ]
+}
