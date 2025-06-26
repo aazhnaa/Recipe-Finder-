@@ -1,6 +1,6 @@
 ## 📸 Screenshots
 
-[](public/screenshot.png.png)
+![](frontend/public/screenshot.png)
 
 # 🍽️ Recipe Finder
 
